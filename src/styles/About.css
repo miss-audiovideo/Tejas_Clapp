@@ -19,6 +19,7 @@
   padding-top: 20px;
 }
 .about-heading {
+  margin-top: 10%;
   display: flex;
   justify-content: flex-start;
 }
@@ -30,6 +31,7 @@
 }
 .about-para p {
   display: flex;
+  text-align: left;
   justify-content: flex-start;
 }
 @media screen and (min-device-width: 375px) and (max-device-width: 800px) {

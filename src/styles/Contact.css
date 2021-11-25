@@ -1,5 +1,7 @@
 .Contact {
   background-color: #121212;
+  box-sizing: border-box;
+  overflow: hidden;
 }
 .ContactBanner img {
   width: 100%;
@@ -9,6 +11,7 @@
   color: white;
   width: 60%;
   margin: auto;
+  margin-top: 10%;
 }
 .contact-address h1 {
   display: flex;
@@ -174,6 +177,21 @@ label {
 }
 span {
   color: blue;
+}
+.typo button {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 10px 20px;
+  background: #0652dd;
+  color: white;
+  border: none;
+  outline: none;
+  letter-spacing: 2px;
+  font-weight: bold;
+  border-radius: 10px;
+  font-size: 20px;
+  display: flex;
+  justify-content: flex-start;
 }
 @media screen and (min-device-width: 375px) and (max-device-width: 800px) {
   .ContactBanner img {

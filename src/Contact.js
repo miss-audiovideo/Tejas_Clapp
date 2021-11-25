@@ -57,6 +57,7 @@ const Contact = () => {
           Leave us a message
         </label>
         <input className="typo-input" type="text" />
+        <button>Submit</button>
       </div>
     </div>
   );
