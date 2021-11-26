@@ -31,7 +31,11 @@
   overflow: hidden;
 }
 .firstpage-img img {
-  width: min-content;
+  width: 400px;
+  height: 500px;
+  object-fit: contain;
+  display: flex;
+  justify-content: space-around;
 }
 .firstpage-mediaicons {
   padding: 4px;
@@ -42,5 +46,15 @@
     display: flex;
     flex-direction: column;
     margin-top: 10%;
+  }
+  .firstpage-img img {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .firstpage-left h1 {
+    padding-left: 20px;
+    padding-right: 20px;
   }
 }

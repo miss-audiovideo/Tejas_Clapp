@@ -1,6 +1,7 @@
 import React from "react";
 import "./styles/FirstPage.css";
 import "animate.css";
+import mobile from "./styles/images/mobile.jpeg";
 
 const FirstPage = () => {
   return (
@@ -28,6 +29,7 @@ const FirstPage = () => {
       <div className="firstpage-right">
         <div className="firstpage-img">
           <img
+            src={mobile}
             // src="https://static.wixstatic.com/media/5333d4_ef1eeccbdc284f7387d515ba0840563c~mv2.png/v1/fill/w_1716,h_853,al_c/5333d4_ef1eeccbdc284f7387d515ba0840563c~mv2.png"
             alt=""
           />
