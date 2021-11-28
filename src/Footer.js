@@ -27,12 +27,25 @@ const Footer = () => {
       <div className="footer-right">
         <div className="right-pics">
           <img
-            src="https://static.wixstatic.com/media/71ac09a5a92848cc943bf2ca2a09a6d0.png/v1/fill/w_38,h_38,al_c,q_85,usm_0.66_1.00_0.01/71ac09a5a92848cc943bf2ca2a09a6d0.webp"
+            // src="https://static.wixstatic.com/media/71ac09a5a92848cc943bf2ca2a09a6d0.png/v1/fill/w_38,h_38,al_c,q_85,usm_0.66_1.00_0.01/71ac09a5a92848cc943bf2ca2a09a6d0.webp"
+            src="https://cdn-icons-png.flaticon.com/512/1312/1312139.png"
+            width="50px"
+            height="50px"
+            alt=""
+          />
+
+          <img
+            src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670127.png?token=exp=1638109035~hmac=35e20ccbaa82145a17164b9784ffad69"
+            width="50px"
+            height="50px"
             alt=""
           />
           <img
-            src="https://static.wixstatic.com/media/fdcfaba150fc427da298a00cb09d91c1.png/v1/fill/w_38,h_38,al_c,q_85,usm_0.66_1.00_0.01/fdcfaba150fc427da298a00cb09d91c1.webp"
+            src="https://cdn-icons.flaticon.com/png/512/1377/premium/1377213.png?token=exp=1638108680~hmac=93acbf8bae6ead88f5d91aff42a9b03c"
+            width="50px"
+            height="50px"
             alt=""
+            className="linkedin"
           />
         </div>
       </div>

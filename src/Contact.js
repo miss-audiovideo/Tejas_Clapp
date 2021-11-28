@@ -5,7 +5,7 @@ const Contact = () => {
     <div className="Contact">
       <div className="ContactBanner">
         <img
-          src="https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+          src="https://cdn.pixabay.com/photo/2017/08/06/07/34/iphone-2589909__340.jpg"
           alt=""
         />
       </div>

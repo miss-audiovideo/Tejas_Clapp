@@ -7,7 +7,7 @@ const About = () => {
       <div className="top">
         <div className="About-img">
           <img
-            src="https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+            src="https://cdn.pixabay.com/photo/2017/08/06/03/56/phone-2588517_960_720.jpg"
             alt=""
           />
         </div>
