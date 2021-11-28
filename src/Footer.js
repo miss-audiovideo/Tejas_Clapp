@@ -5,14 +5,14 @@ const Footer = () => {
   return (
     <div className="footer animate__animated animate__fadeIn animate__delay-1s animate-slower">
       <div className="footer-left">
-        <h1>Clapp</h1>
+        <h1> Influencerz</h1>
       </div>
       <div className="footer-center">
         <ul>
-          <li>©2021 clapp </li>
-          <li> | Privacy policy </li>
-          <li> | Terms And Conditions </li>
-          <li> | Subsidiary of investium LTD </li>
+         {/*  <li>©2021  Influencerz </li>*/}
+         {/* <li> | Privacy policy </li>*/}
+         {/* <li> | Terms And Conditions </li>*/}
+         {/* <li> | Subsidiary of investium LTD </li>*/}
         </ul>
         <ul>
           <center>

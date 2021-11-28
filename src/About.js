@@ -18,25 +18,11 @@ const About = () => {
         </div>
         <div className="about-para">
           <p>
-            Clapp is a first-of-its-kind seamless platform where businesses from
-            a vast array of industries can have access to a range of PR &
-            marketing services all the while forming an exclusive
-            fully-digitized members-only elite community in parallel, where
-            influencers, media personalities, and other invited members can
-            benefit from exclusive perks & benefits in exchange for coverage or
-            other case-by-case requirements.
+          Influencerz is a collabortaion platform exclusively for influencers and brands looking to indulge in bartered collaboration deals. With influencerz, Influencers can earn a percentage of share from sales through conversion, Moreover, influencers can gift their followers with a special discount on their collaboration deals. 
+
           </p>
           <p>
-            Resembling today’s fast-paced & on-demand PR & marketing needs,
-            Clapp is an application which follows a typically barter-based
-            business model allowing business to benefit from reducing overall
-            in-house PR and marketing spending whilst getting greater ROI.
-            Businesses will be able to track the coverage, exposure, and
-            engagement they receive through the platform via user-friendly
-            interactive interfaces, whilst influencers and members will be able
-            to track the value of the redemptions they’ve made as well as the
-            savings they’ve achieved by utilizing Clapp’s exclusive perks &
-            benefits.
+           
           </p>
         </div>
       </div>

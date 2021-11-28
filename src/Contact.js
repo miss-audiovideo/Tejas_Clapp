@@ -9,14 +9,25 @@ const Contact = () => {
           alt=""
         />
       </div>
-      <div className="contact-address">
+      <div class="container">
+  <div class="row">
+    <div class="col-sm">
+    <div className="contact-address">
         <h1>Contact us</h1>
-        <p>The Clapp App DMCC</p>
-        <p>Warehouse eighteen, Al Serkal Avenue</p>
-        <p>Dubai, United Arab Emirates</p>
-        <p>Email: info@theclappapp.com</p>
-        <p>Phone: +971 4 396 3437</p>
+        <p>The Influenzers App </p>
+        <p></p>
+        <p>Valletta, Malta</p>
+        <p>Email: abc@abc.com</p>
+        <p>Phone: +000 0 000 0000</p>
       </div>
+    </div>
+    <div class="col-sm">
+   {/*  <div class="responsive-map"></div>*/}
+    </div>
+   
+  </div>
+</div>
+    
       <div className="message">
         <h1>Drop us a Message</h1>
       </div>
