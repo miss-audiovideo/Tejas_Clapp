@@ -1,5 +1,7 @@
 import React from "react";
 import "./styles/Footer.css";
+import twitter from "./styles/images/twitter.png";
+import linkedin from "./styles/images/linkedin.png";
 
 const Footer = () => {
   return (
@@ -9,10 +11,10 @@ const Footer = () => {
       </div>
       <div className="footer-center">
         <ul>
-         {/*  <li>©2021  Influencerz </li>*/}
-         {/* <li> | Privacy policy </li>*/}
-         {/* <li> | Terms And Conditions </li>*/}
-         {/* <li> | Subsidiary of investium LTD </li>*/}
+          {/*  <li>©2021  Influencerz </li>*/}
+          {/* <li> | Privacy policy </li>*/}
+          {/* <li> | Terms And Conditions </li>*/}
+          {/* <li> | Subsidiary of investium LTD </li>*/}
         </ul>
         <ul>
           <center>
@@ -34,14 +36,9 @@ const Footer = () => {
             alt=""
           />
 
+          <img src={twitter} width="50px" height="50px" alt="" />
           <img
-            src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670127.png?token=exp=1638109035~hmac=35e20ccbaa82145a17164b9784ffad69"
-            width="50px"
-            height="50px"
-            alt=""
-          />
-          <img
-            src="https://cdn-icons.flaticon.com/png/512/1377/premium/1377213.png?token=exp=1638108680~hmac=93acbf8bae6ead88f5d91aff42a9b03c"
+            src={linkedin}
             width="50px"
             height="50px"
             alt=""
