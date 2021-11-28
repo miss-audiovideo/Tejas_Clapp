@@ -8,7 +8,9 @@ const FirstPage = () => {
     <div className="firstpage">
       <div className="firstpage-left">
         <div className="firstpage-text animate__animated animate__fadeInRight animate__delay-1s animate-slower">
-          <h1> A first of its kind exclusive & digital membership club</h1>
+          <h1> Power boost your business with Influencerz: 
+          <p>A unique and premiere full-service influencer marketing platform for brands and influencers.</p>
+</h1>
         </div>
         <div className="firstpage-media">
           <h5 className="animate__animated animate__fadeInRight animate__delay-1s animate-slower">

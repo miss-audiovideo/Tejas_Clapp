@@ -12,3 +12,36 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.firstpage p {
+  font-size: 24px;
+  color: grey;
+  padding-left: 10px;
+  padding-right: 5px;
+}
+
+@media only screen and (max-width: 780px) {
+  .firstpage p {
+    font-size: 18px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .firstpage p {
+    font-size: 12px;
+   
+  }
+}
+.responsive-map{
+  overflow: hidden;
+  padding-bottom:56.25%;
+  position:relative;
+  height:0;
+  }
+  .responsive-map iframe{
+  left:0;
+  top:0;
+  height:100%;
+  width:100%;
+  position:absolute;
+  }
