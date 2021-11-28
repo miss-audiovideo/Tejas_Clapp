@@ -15,16 +15,14 @@ const Contact = () => {
     <div className="contact-address">
         <h1>Contact us</h1>
         <p>The Influenzers App </p>
-        <p>Warehouse eighteen, Al Serkal Avenue</p>
-        <p>Dubai, United Arab Emirates</p>
-        <p>Email: info@theclappapp.com</p>
-        <p>Phone: +971 4 396 3437</p>
+        <p></p>
+        <p>Valletta, Malta</p>
+        <p>Email: abc@abc.com</p>
+        <p>Phone: +000 0 000 0000</p>
       </div>
     </div>
     <div class="col-sm">
-    <div class="responsive-map">
-
-</div>
+   {/*  <div class="responsive-map"></div>*/}
     </div>
    
   </div>
