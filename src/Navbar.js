@@ -9,7 +9,7 @@ const Navbar = () => {
   return (
     <div className="Navbar">
       <div className="rightSide">
-        <h1> Influencerz</h1>
+        <h1> DOSP</h1>
       </div>
       <div className="leftSide">
         <div className="links" id={showLinks ? "hidden" : ""}>

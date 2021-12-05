@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <div className="footer animate__animated animate__fadeIn animate__delay-1s animate-slower">
       <div className="footer-left">
-        <h1> Influencerz</h1>
+        <h1>DOSP</h1>
       </div>
       <div className="footer-center">
         <ul>
