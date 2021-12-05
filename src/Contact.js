@@ -1,11 +1,12 @@
 import React from "react";
 import "./styles/Contact.css";
+import mobiles from "./styles/images/mobiles.jpg";
 const Contact = () => {
   return (
     <div className="Contact">
       <div className="ContactBanner">
         <img
-          src="https://cdn.pixabay.com/photo/2017/08/06/07/34/iphone-2589909__340.jpg"
+          src={mobiles}
           alt=""
         />
       </div>

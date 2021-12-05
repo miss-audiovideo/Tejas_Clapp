@@ -1,13 +1,13 @@
 import React from "react";
 import "./styles/About.css";
-
+import mobiles from "./styles/images/mobiles.jpg";
 const About = () => {
   return (
     <div className="about">
       <div className="top">
         <div className="About-img">
           <img
-            src="https://cdn.pixabay.com/photo/2017/08/06/03/56/phone-2588517_960_720.jpg"
+            src={mobiles}
             alt=""
           />
         </div>

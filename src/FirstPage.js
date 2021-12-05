@@ -1,7 +1,7 @@
 import React from "react";
 import "./styles/FirstPage.css";
 import "animate.css";
-import mobile from "./styles/images/mobile.jpeg";
+import mobile from "./styles/images/mobile.jpg";
 
 const FirstPage = () => {
   return (
